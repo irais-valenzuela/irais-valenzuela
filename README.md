@@ -11,12 +11,9 @@
 - ⚡ Fun fact: I have an identical twin
 
 <h3>Technical Skills and Tools</h3>
-![github](https://img.shields.io/badge/-GitHub-lightgrey?)
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?)
-![Express](https://img.shields.io/badge/-Express-critical?)
-![React](https://img.shields.io/badge/-React-blue?)
-![Node](https://img.shields.io/badge/-Node-yellowgreen?)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?)
-![Redux](https://img.shields.io/badge/-Redux-blueviolet?)
-![HTML](https://img.shields.io/badge/-HTML-9cf?)
-![CSS](https://img.shields.io/badge/-CSS-9cf?)
+<p>Javascript</p>
+<p>PostgreSQL</p>
+<p>Express.js</p>
+<p>React.js</p>
+<p>Node.js</p>
+<p>Redux</p>
