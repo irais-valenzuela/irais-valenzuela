@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Recipeasey a meal planning web application using the PERN stack
-- 🌱 I’m currently honing my Javascript skills by olving algorithms and building web applications
+- 🌱 I’m currently honing my Javascript skills by solving algorithms and building web applications
 - 🤔 I’m looking for software engineering roles
 - 💬 Ask me about my projects
 - 📫 How to reach me: @iraisvq8@gmail.com
