@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Recipeasey a meal planning web application using the PERN stack
+- 🔭 I’m currently working on a Cycle Planner web application using the PERN stack
 - 🌱 I’m currently honing my Javascript skills by solving algorithms and building web applications
 - 🤔 I’m looking for software engineering roles
 - 💬 Ask me about my projects
