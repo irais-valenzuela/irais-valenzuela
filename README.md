@@ -1,19 +1,33 @@
-### Hi there, I'm Irais Valenzuela! I'm a Fullstack Software Engineer 👋
+<h1 align="center">Hi 👋, I'm Irais Valenzuela</h1>
+<h3 align="center">A passionate Full stack developer from sunny Southern California</h3>
 
+- 🔭 I’m currently working on [Cycle Planner App](https://github.com/irais-valenzuela/cycle-planner-app)
 
+- 🤝 I’m looking for a new role as a **Software Engineer**
 
-- 🔭 I’m currently working on a Cycle Planner web application using the PERN stack
-- 🌱 I’m currently honing my Javascript skills by solving algorithms and building web applications
-- 🤔 I’m looking for software engineering roles
-- 💬 Ask me about my projects
-- 📫 How to reach me: @iraisvq8@gmail.com
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have an identical twin
+- 👨‍💻 All of my projects are available at [irais-valenzuelas-portfolio.onrender.com/](irais-valenzuelas-portfolio.onrender.com/)
 
-<h3>Technical Skills and Tools</h3>
-<p>Javascript</p>
-<p>PostgreSQL</p>
-<p>Express.js</p>
-<p>React.js</p>
-<p>Node.js</p>
-<p>Redux</p>
+- 📝 I regularly write articles on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
+
+- 💬 Ask me about **My web development projects and how I leverage my background in Psychology to build intuitive and thoughtful user experiences.**
+
+- 📫 How to reach me **iraisvq8@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
+
+- ⚡ Fun fact **I have an identical twin**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/irais-valenzuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irais-valenzuela/" height="30" width="40" /></a>
+<a href="https://medium.com/@iraisvq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iraisvq8" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irais-valenzuela&show_icons=true&locale=en&layout=compact" alt="irais-valenzuela" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irais-valenzuela&show_icons=true&locale=en" alt="irais-valenzuela" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irais-valenzuela&" alt="irais-valenzuela" /></p>
