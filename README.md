@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irais-valenzuela&show_icons=true&locale=en&layout=compact" alt="irais-valenzuela" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irais-valenzuela&show_icons=true&locale=en" alt="irais-valenzuela" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irais-valenzuela&" alt="irais-valenzuela" /></p>
