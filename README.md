@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
 
-- ⚡ Fun fact **I have an identical twin**
+- ⚡ Interests **Filming Nature Videos, Long walks, Volleyball, Psychology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
