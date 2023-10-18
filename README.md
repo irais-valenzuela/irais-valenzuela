@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [irais-valenzuelas-portfolio.onrender.com/](irais-valenzuelas-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://irais-valenzuelas-portfolio.onrender.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
 
