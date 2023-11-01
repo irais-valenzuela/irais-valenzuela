@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irais Valenzuela</h1>
 <h3 align="center">A passionate Fullstack Software Engineer from sunny Southern California</h3>
 
-- 🔭 I’m currently working on [Cycle Planner App](https://github.com/irais-valenzuela/cycle-planner-app) & volunteering for Hack for LA.
+- 🔭 I’m currently volunteering as a Software Engineer for Hack for LA & working on [Cycle Planner App](https://github.com/irais-valenzuela/cycle-planner-app) 
 
 - 🤝 I’m looking for a new role as a **Software Engineer**
 
