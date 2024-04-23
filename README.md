@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://irais-valenzuelas-portfolio.onrender.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
+- 📝 Check out my article on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
 
 - 💬 Ask me about **My web development projects and how I leverage my background in Psychology to build intuitive and thoughtful user experiences.**
 
