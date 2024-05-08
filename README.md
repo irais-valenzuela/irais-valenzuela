@@ -9,8 +9,6 @@
 
 - 📝 Check out my article on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
 
-- 💬 Ask me about **My web development projects and how I leverage my background in Psychology to build intuitive and thoughtful user experiences.**
-
 - 📫 How to reach me **iraisvq8@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
