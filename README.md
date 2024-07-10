@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ida Valenzuela</h1>
-<h3 align="center">A passionate Fullstack Software Engineer from sunny Southern California</h3>
+<h3 align="center">Fullstack Software Engineer from sunny Southern California</h3>
 
 - 🔭 I’m currently volunteering as a Software Engineer for Hack for LA, learning Golang, and will be beginning a SWE internship this summer!
 
