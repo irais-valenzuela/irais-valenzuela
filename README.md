@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ida Valenzuela</h1>
+<h1 align="center">Hi, I'm Ida Valenzuela</h1>
 <h3 align="center">Fullstack Software Engineer from sunny Southern California</h3>
 
 - 🔭 I’m currently a Software Engineer for Hack for LA and recently completed a Software Engineering Internship where I wrote Golang to complete the goals of tickets and contributed the SDLC like storypointing during backlog grooming, code reviews, agile ceremony, and writing detailed Jira tickets. 
