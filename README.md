@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://irais-valenzuelas-portfolio.onrender.com/)
 
-- 📝 Check out my article on [https://medium.com/@iraisvq8](https://medium.com/@iraisvq8)
+- 📝 Check out my article on [React Router](https://medium.com/@iraisvq8)
 
 - 📫 How to reach me **iraisvq8@gmail.com**
 
