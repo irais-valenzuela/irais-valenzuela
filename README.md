@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iraisvq8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
+- 📄 Know about my experiences [Ida Valenzuela Resume](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
 
 - ⚡ Interests **Filming Nature Videos, Long walks, Volleyball, Psychology**
 
