@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Ida Valenzuela Resume](https://docs.google.com/document/d/1FgrbJj4ulArwJQdUX-3Cco0FxBXDLmW9la3sQBl0EB0/edit)
 
-- ⚡ Interests **Filming Nature Videos, Long walks, Volleyball, Psychology**
+- ⚡ Interests **Health, Tennis, Psychology, Civic Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
